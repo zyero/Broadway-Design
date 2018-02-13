@@ -1,0 +1,13 @@
+#design {
+  background-image: url(images/building.png);
+}
+h1 {
+  color: white;
+  font-weight: bold;
+  font-size: 70px;
+  font-family: Helvetica;
+}
+
+#random {
+  background-image: url(images/building.png)
+}
