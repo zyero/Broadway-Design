@@ -1,13 +1,49 @@
 #design {
   background-image: url(images/building.png);
 }
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
 h1 {
   color: white;
   font-weight: bold;
   font-size: 70px;
   font-family: Helvetica;
 }
-
+#contact {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
 #random {
-  background-image: url(images/building.png)
+  background-image: url(images/building.png);
+  background-size: auto;
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+nav a {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+body {
+  margin: 20px;
+  width: auto;
+  text-align: center;
 }
